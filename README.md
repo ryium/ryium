@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ryium
+- 👀 I’m interested in DeepSpikingNeuralNetwork
+- 🌱 I’m currently learning Rust, C++ and Masking R-CNN
