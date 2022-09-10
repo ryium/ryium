@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ryium
-- 👀 I’m interested in DSNN; DeepSpikingNeuralNetwork
-- 🌱 I’m currently learning Rust, C++ and M2Det
+- 🌱 I’m currently learning Rust, TypeScript
+
+![Metrics](/github-metrics.svg)
